@@ -2,7 +2,7 @@
 schema_version: 1
 
 context:
-  version: "0.3.39"
+  version: "0.3.44"
 
 package:
   name: llm-sandbox
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/l/llm-sandbox/llm_sandbox-${{ version }}.tar.gz
-  sha256: 7452317a054df3ac20fb652a2e100b5697624886282874fecfb738bac21b27bb
+  sha256: e22700041fc82b93add1603d72e40f0357bfafcc11efc6394385861c5e3ed013
 
 build:
   number: 0
